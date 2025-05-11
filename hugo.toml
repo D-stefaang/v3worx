@@ -24,6 +24,10 @@ changefreq = "monthly"
 priority = 0.5
 filename = "sitemap.xml"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [[params.ananke_socials]]
 name = "facebook"
 url = "https://www.facebook.com/v3worx"
