@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>V3-Worx</title><link>https://www.v3-worx.be/</link><description>Recent content on V3-Worx</description><generator>Hugo</generator><language>nl</language><lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://www.v3-worx.be/index.xml" rel="self" type="application/rss+xml"/><item><title>AZ Maria Middelares</title><link>https://www.v3-worx.be/realisaties/middelares/</link><pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate><guid>https://www.v3-worx.be/realisaties/middelares/</guid><description>&lt;p>Goe bezig in het ziekenhuis&lt;/p></description></item><item><title>Barco</title><link>https://www.v3-worx.be/realisaties/barco/</link><pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate><guid>https://www.v3-worx.be/realisaties/barco/</guid><description>&lt;p>Op de site van Barco&lt;/p></description></item><item><title>Schilderwerk gebouw witte muren en deuren</title><link>https://www.v3-worx.be/realisaties/schilderwerk1/</link><pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate><guid>https://www.v3-worx.be/realisaties/schilderwerk1/</guid><description>&lt;p>Goe bezig&lt;/p></description></item><item><title>Schilderwerk gebouw witte muren en deuren</title><link>https://www.v3-worx.be/realisaties/schilderwerk2/</link><pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate><guid>https://www.v3-worx.be/realisaties/schilderwerk2/</guid><description>&lt;p>Goe bezig hoor&lt;/p></description></item><item><title>Contact</title><link>https://www.v3-worx.be/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.v3-worx.be/contact/</guid><description>&lt;p>Je kan ons hier bereiken.&lt;/p>
+
+
+
+&lt;form class="black-80 sans-serif" accept-charset="UTF-8" action="https://formspree.io/f/xqaqlvwg" method="POST" role="form">
+
+ &lt;label class="f6 b db mb1 mt3 sans-serif mid-gray" for="name">Uw naam&lt;/label>
+ &lt;input type="text" id="name" name="name" class="w-100 f5 pv3 ph3 bg-light-gray bn" required placeholder=" " aria-labelledby="name"/>
+
+ &lt;label class="f6 b db mb1 mt3 sans-serif mid-gray" for="email">E-mail adres&lt;/label>
+ &lt;input type="email" id="email" name="email" class="w-100 f5 pv3 ph3 bg-light-gray bn" required placeholder=" " aria-labelledby="email"/>
+ &lt;div class="requirements f6 gray glow i ph3 overflow-hidden">
+ Een e-mailadres is vereist.
+ &lt;/div>
+
+ &lt;label class="f6 b db mb1 mt3 sans-serif mid-gray" for="message">Boodschap&lt;/label>
+ &lt;textarea id="message" name="message" class="w-100 f5 pv3 ph3 bg-light-gray bn h4" aria-labelledby="message">&lt;/textarea>
+
+ &lt;input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black" type="submit" value="Stuur" />
+
+&lt;/form>
+
+&lt;p>Anthony De Vos&lt;/p></description></item><item><title>Ons team</title><link>https://www.v3-worx.be/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.v3-worx.be/about/</guid><description>&lt;figure>&lt;img src="https://www.v3-worx.be/images/team.jpg">&lt;figcaption>
+ &lt;h4>Ons team&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;p>&lt;em>“Tijdens 20 jaar heb ik in de verfbranche met de verschillende betrokken partijen in de markt mogen werken. Gepassioneerd door de bouw zag ik meer en meer de toename in aandacht ontstaan voor gebouwuitstraling en ontzorging. Het was voor mij duidelijk dat ik, mede door mijn bagage en adviserende ervaring, mij verder wou toeleggen op deze markttendensen. Het realiseren van een continue stralend gebouw kan met gericht onderhoud gerealiseerd worden. Het opzetten van een ontzorgende dienst hiervoor was iets waar de groep Veldeman ook sterk in geloofde. Een mooie aanvulling op het rijke programma van de groep Veldeman was ontstaan!”&lt;/em>&lt;/p></description></item><item><title>Werkwijze</title><link>https://www.v3-worx.be/werkwijze/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.v3-worx.be/werkwijze/</guid><description>&lt;h1 id="plan">Plan&lt;/h1>
+&lt;ul>
+&lt;li>Inventarisatie van de gebouwen en ruimtes&lt;/li>
+&lt;li>Schilderwerken en onderhoudsbeurten inplannen&lt;/li>
+&lt;li>Bij preventief programma opmaak meerjarenplan&lt;/li>
+&lt;/ul>
+&lt;h1 id="do">Do&lt;/h1>
+&lt;ul>
+&lt;li>Uitvoeren van schilderwerk, onderhoudsbeurt of verbeterwerk&lt;/li>
+&lt;/ul>
+&lt;h1 id="check">Check&lt;/h1>
+&lt;ul>
+&lt;li>In stand houden van de goede staat&lt;/li>
+&lt;li>Inspectie van de staat en gebreken&lt;/li>
+&lt;/ul>
+&lt;h1 id="act">Act&lt;/h1>
+&lt;ul>
+&lt;li>Uitvoeren van correcties en verbeteringen&lt;/li>
+&lt;/ul></description></item></channel></rss>

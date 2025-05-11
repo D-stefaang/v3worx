@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.v3-worx.be/sitemap.xml
