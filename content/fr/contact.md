@@ -8,4 +8,6 @@ menu: main
 
 ---
 
-...
+Veuillez remplir le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.
+
+{{< form-contact action="https://formspree.io/f/xqaqlvwg"  >}}
