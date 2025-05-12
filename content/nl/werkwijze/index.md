@@ -2,26 +2,26 @@
 title: "Werkwijze"
 
 description: "..."
-omit_header_text: true
-
+omit_header_text: false
+type: "page"
 ---
 
-# Plan
+# PLAN
 
 * Inventarisatie van de gebouwen en ruimtes
 * Schilderwerken en onderhoudsbeurten inplannen
 * Bij preventief programma opmaak meerjarenplan
 
-# Do
+# DO
 
 * Uitvoeren van schilderwerk, onderhoudsbeurt of verbeterwerk
 
-# Check
+# CHECK
 
 * In stand houden van de goede staat
 * Inspectie van de staat en gebreken
 
 
-# Act
+# ACT
 
 * Uitvoeren van correcties en verbeteringen
