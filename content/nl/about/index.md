@@ -1,7 +1,7 @@
 ---
 title: "Ons team"
 description: ""
-featured_image: '/images/team.jpg'
+featured_image: "/images/team.jpg"
 type: "page"
 ---
 {{< figure src="/images/team.jpg" title="Ons team" >}}

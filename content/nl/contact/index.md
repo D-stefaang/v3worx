@@ -1,8 +1,8 @@
 ---
 title: Contact
-featured_image: ''
+featured_image: ""
 omit_header_text: true
-description: Neem gerust contact op
+description: ""
 type: page
 ---
 
