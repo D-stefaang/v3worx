@@ -12,11 +12,11 @@ En tant qu'entreprise de peinture pour clients professionnels et particuliers, n
 
 Y a-t-il besoin de plus que de la simple peinture ? Alors nos spécialistes des différents départements s'en chargeront volontiers.
 
-‘**V3-Builds**’ représente l'amélioration fonctionnelle et décorative. Modifications de l'aménagement d'un espace ou d'un bâtiment, renforcement des murs, éléments décoratifs accrocheurs, …
+**V3-Builds** représente l'amélioration fonctionnelle et décorative. Modifications de l'aménagement d'un espace ou d'un bâtiment, renforcement des murs, éléments décoratifs accrocheurs, …
 
-‘**V3-Cleans**’ nettoie sur place les rideaux, les murs et les façades extérieures en crépi.
+**V3-Cleans** nettoie sur place les rideaux, les murs et les façades extérieures en crépi.
 
-‘**V3-Paints**’ assure la finition des travaux de peinture et la pose de revêtements de sol souples.
+**V3-Paints** assure la finition des travaux de peinture et la pose de revêtements de sol souples.
 
 Vous voyez ainsi que V3-Worx travaille pour tout type de bâtiment. Nous le faisons volontiers en tant que mission unique ou nous discutons ensemble d'un plan d'entretien avantageux pour plusieurs années. [Demandez un devis sans engagement](/contact/). Nous nous déplaçons volontiers sur place pour une concertation.
 

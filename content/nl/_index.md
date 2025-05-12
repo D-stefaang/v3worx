@@ -13,7 +13,11 @@ Als schilderbedrijf voor professionele en particuliere klanten hebben we iets me
 
 Is er meer nodig dan enkel schilderen? Dan nemen onze specialisten van de verschillende afdelingen dat er met plezier bij. 
 
-‘**V3-Builds**’ staat voor functionele en decoratieve verbetering. Aanpassingen aan de indeling van een ruimte of gebouw, versterking van wanden, decoratieve eye-catchers, … ‘**V3-Cleans**’ reinigt ter plaatse gordijnen,wanden en buitengevels met crepi. ‘**V3-Paints**’ zorgt voor de afwerking van de schilderwerken en het plaatsen van zachte vloerbekleding.
+**V3-Builds** staat voor functionele en decoratieve verbetering. Aanpassingen aan de indeling van een ruimte of gebouw, versterking van wanden, decoratieve eye-catchers, … 
+
+**V3-Cleans** reinigt ter plaatse gordijnen,wanden en buitengevels met crepi. 
+
+**V3-Paints** zorgt voor de afwerking van de schilderwerken en het plaatsen van zachte vloerbekleding.
 
 Zo zie je dat V3-Worx werkt voor elk gebouw. We doen dit graag als eenmalige opdracht of we overleggen samen een voordelig onderhoudsplan voor meerdere jaren. [Vraag vrijblijvend een offerte aan](/contact/). We komen graag ter plaatse voor overleg.
 

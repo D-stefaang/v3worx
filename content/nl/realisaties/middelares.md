@@ -1,5 +1,5 @@
 ---
-date: 2017-04-09T10:58:08-04:00
+date: 2025-05-10T12:45:00+02:00
 featured_image: "/images/V3-worx_schilderwerk1.jpg"
 tags: []
 title: "AZ Maria Middelares"
