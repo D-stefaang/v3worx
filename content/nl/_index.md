@@ -23,6 +23,6 @@ Zo zie je dat V3-Worx werkt voor elk gebouw. We doen dit graag als eenmalige opd
 
 ## Missie
 
-* *Het behouden en verbeteren van  uw gebouwuitstraling*
-* *Het streven naar een zo efficiënt mogelijk onderhoud*
-* *Het optimaliseren en spreiden van het onderhoudsbudget*
+* *Behouden en verbeteren van  uw gebouwuitstraling*
+* *Streven naar een zo efficiënt mogelijk onderhoud*
+* *Optimaliseren en spreiden van het onderhoudsbudget*
