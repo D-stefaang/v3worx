@@ -1,0 +1,66 @@
+{{ define "header" }}
+   {{/* We can override any block in the baseof file here */}}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <h1 class="f1 mb1">
+        {{- .Title -}}
+      </h1>
+      {{ if .Description }}
+        <h2 class="f2 fw1 mb2">
+          {{- .Description -}}
+        </h2>
+      {{ end }}
+    </header>
+
+    <main class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | compare.Default "serif"}} f4 nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }} pr4-l w-two-thirds-l">
+      {{- .Content -}}
+      
+      {{- if .Params.gallery }}
+      <div class="gallery mt5">
+        <h3 class="f3">Project Gallery</h3>
+        <div class="cf">
+          {{- range .Params.gallery }}
+          <div class="fl w-third-ns pa2">
+            <img src="{{ . }}" class="db w-100 br2">
+          </div>
+          {{- end }}
+        </div>
+      </div>
+      {{- end }}
+    </main>
+    
+    <aside class="w-30-l mt6-l">
+      {{- if .Params.project_details }}
+      <div class="bg-light-gray pa3 mb4 br2">
+        <h4 class="f4 mb3">Project Details</h4>
+        <ul class="list pl0">
+          {{- range $key, $val := .Params.project_details }}
+          <li class="mb2"><strong>{{ $key }}:</strong> {{ $val }}</li>
+          {{- end }}
+        </ul>
+      </div>
+      {{- end }}
+      
+      {{- if .Params.tags }}
+      <div class="pa3">
+        <h4 class="f4 mb3">Tags</h4>
+        <ul class="list pl0">
+          {{- range .Params.tags }}
+          <li class="dib mr2">
+            <a href="{{ "tags" | absURL }}/{{ . | urlize }}" class="link dim ba ph2 pv1 dib">{{ . }}</a>
+          </li>
+          {{- end }}
+        </ul>
+      </div>
+      {{- end }}
+    </aside>
+
+    {{- if .Site.Params.showRelatedInSidebar }}
+      {{ partial "related.html" . }}
+    {{- end }}
+  </article>
+{{ end }}

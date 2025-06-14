@@ -28,6 +28,9 @@ filename = "sitemap.xml"
   [caches.images]
     dir = ':cacheDir/images'
 
+[params]
+  mainSections = ["realisaties"]
+
 [[params.ananke_socials]]
 name = "facebook"
 url = "https://www.facebook.com/v3worx"
@@ -49,25 +52,31 @@ networks = [
 
 [menu]
   [[menu.main]]
+    identifier = "aanbod"
+    name = "Aanbod"
+    url = "/aanbod/"
+    weight = 10
+
+  [[menu.main]]
     identifier = "werkwijze"
     name = "Werkwijze"
     url = "/werkwijze/"
-    weight = 10
+    weight = 20
 
   [[menu.main]]
     identifier = "realisaties"
     name = "Realisaties"
     url = "/realisaties/"
-    weight = 20
+    weight = 30
 
   [[menu.main]]
     identifier = "ons-team"
     name = "Ons team"
     url = "/about/"
-    weight = 30
+    weight = 40
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 40
+    weight = 50
