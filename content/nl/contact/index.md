@@ -9,7 +9,7 @@ type: page
 
 Neem contact op met ons team door het formulier in te vullen. We helpen u graag verder.
 
-{{< form-contact action="https://formspree.io/f/xqaqlvwg"  >}}
+{{< form-contact action="https://formspree.io/f/xqaqlvwg" lang="nl" >}}
 
 
 Anthony De Vos
