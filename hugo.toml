@@ -1,4 +1,5 @@
-baseURL = 'https://www.v3-worx.be/'
+# baseURL = 'https://www.v3-worx.be/'
+baseURL = 'https://v3worx.netlify.app/'
 languageCode = 'nl-be'
 title = 'V3-Worx'
 theme = 'ananke'
