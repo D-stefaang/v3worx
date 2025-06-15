@@ -1,8 +1,8 @@
 ---
 title: "Aanbod"
-description: "..."
-featured_image: "/images/V3worx-ontzorgen.png"
-date: 2025-05-10T12:45:00+02:00
+description: ""
+featured_image: "/images/Paro-Plus-Projecten-Veldeman-154-scaled.jpg"
+date: 2025-05-10
 ---
 
 # Ontzorgen
