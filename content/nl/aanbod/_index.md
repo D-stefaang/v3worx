@@ -1,7 +1,7 @@
 ---
 title: "Aanbod"
 description: ""
-featured_image: "/images/Paro-Plus-Projecten-Veldeman-154-scaled.jpg"
+featured_image: "images/Paro-Plus-Projecten-Veldeman-154-scaled.jpg"
 date: 2025-05-10
 ---
 
