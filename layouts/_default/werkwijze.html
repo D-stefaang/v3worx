@@ -16,13 +16,15 @@
     </div>
 
     <div class="mw8 center">
-      <div class="cf ph2-ns">
+      <!-- Use flex layout with wrap for better control -->
+      <div class="flex flex-wrap">
         {{ range $index, $page := (where .Pages "Section" "werkwijze") }}
           {{ if eq .Kind "page" }}
-            <div class="fl w-100 w-50-m w-25-l pa2">
+            <!-- Changed to 100% width on small, 50% on medium, 25% on large -->
+            <div class="w-100 w-50-ns w-25-l pa2">
               <div class="bg-white br3 ba b--light-gray pa3 pa4-ns h-100">
                 <div class="tc">
-                  <div class="f2 b dark-blue mb2">{{ .Title }}</div>
+                  <div class="f2 f3-m f4-s b dark-blue mb2">{{ .Title }}</div>
                   <div class="f6 gray">Stap {{ add $index 1 }}</div>
                 </div>
                 <div class="mt3">
