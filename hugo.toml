@@ -7,7 +7,7 @@ theme = 'ananke'
 DefaultContentLanguage = "nl"
 SectionPagesMenu = "main"
 pagination.pagerSize  = 3                  # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+googleAnalytics = "G-53QFRCXXQL"
 enableRobotsTXT = true
 
 [languages]
