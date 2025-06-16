@@ -2,10 +2,9 @@
 title: "V3-Worx"
 
 description: "travaille pour tout type de bâtiment."
-# 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+  featured_image: '/images/V3-worx_schilderwerk-janpalfijn.jpg'
 ---
 
 En tant qu'entreprise de peinture pour clients professionnels et particuliers, nous avons un lien particulier avec les bâtiments. Il ne s'agit pas seulement pour nous d'exécuter les travaux de peinture demandés. **Nous voulons donner au bâtiment que nous peignons une allure supplémentaire et lui fournir l'entretien nécessaire.**
