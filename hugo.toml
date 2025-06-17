@@ -46,11 +46,12 @@ networks = [
 ]
 [params.ananke.social.facebook]
   username = "v3worx"
-[params.ananke.social.linkedin]
-  username = "v3-worx" 
-  link = "https://www.linkedin.com/company/v3-worx"
 [params.ananke.social.instagram]
   username = "v3worx"
+[params.ananke.social.linkedin]
+  username = "v3-worx" 
+  profile = "https://www.linkedin.com/company/v3-worx"
+  profilelink = "https://www.linkedin.com/company/v3-worx"
 
 [menu]
   [[menu.main]]
