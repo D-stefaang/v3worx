@@ -1,0 +1,2 @@
+Ontzorgen
+V3-CLEANS neemt graag alle zorgen voor gordijnen van je over. We spreiden de onderhoudskosten, we plannen het onderhoud, we inventariseren alle gordijnen, we rapporteren gebreken en conditie van gordijnen, we herstellen en vernieuwen gordijnen en we geven advies voor decoratieve verbeteringen.
